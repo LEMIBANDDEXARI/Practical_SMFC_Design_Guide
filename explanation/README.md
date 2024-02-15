@@ -3,7 +3,7 @@
 # Explanation
 I'm not an expert on this subject, but I'm trying to understand it so that I can explain it to others.
 
-I have three objectives: to explain simply what it is, to show the benefits and to explain how you can create it for your uses.
+I have three objectives: 1. to explain simply what it is, 2. to show the benefits and 3. to explain how you can create it for your uses.
 
 ## Introducing the Soil-Powered Computing project
 A team of researchers have developed an innovation that enables batteries to be created using organic matter to power themselves and generate electricity.
@@ -15,6 +15,10 @@ I discovered this project in an article[<sup>1</sup>](https://www.techno-science
 A YouTube video showing what they've managed to do :
 
 [![Video demonstration of the Soil-Powered Computing project](https://i9.ytimg.com/vi_webp/oGy76j1ScXM/mq2.webp?sqp=CJC7uK4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWyhUMA8=&rs=AOn4CLCNJ9xKwFJaNySnoP_O9npOMO9mCQ)](https://www.youtube.com/watch?v=oGy76j1ScXM)
+
+## 1. Explain simply what it is
+## 2. Show the benefits
+## 3. Explain how you can create it for your uses
 
 8975-file-i44.mp4 video found in the supplementary material for the Soil-Powered Computing project available here: [https://dl.acm.org/doi/10.1145/3631410](https://dl.acm.org/doi/10.1145/3631410)
 ## License
