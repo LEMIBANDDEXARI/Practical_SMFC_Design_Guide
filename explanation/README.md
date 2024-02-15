@@ -25,3 +25,6 @@ A YouTube video showing what they've managed to do :
 ## License
 The GPL3 license only applies to the explanation part ([Practical_SMFC_Design_Guide/explanation/](https://github.com/LEMIBANDDEXARI/Practical_SMFC_Design_Guide/tree/main/explanation)).
 For the rest of the project, please refer to the original project license.
+
+## Contact
+To discuss this repo, you can use the repo's [github discussion](https://github.com/LEMIBANDDEXARI/Practical_SMFC_Design_Guide/discussions), join us [on matrix.org](https://matrix.to/#/#explanation-soil-powered-computing:matrix.org) or get in touch with me by any other means you find: Discord, mail, ...
