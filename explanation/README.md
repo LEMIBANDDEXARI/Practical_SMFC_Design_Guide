@@ -19,6 +19,7 @@ A YouTube video showing what they've managed to do :
 
 ## 1. Explain simply what it is
 ## 2. Show the benefits
+Make electricity more environmentally friendly.
 ## 3. Explain how you can create it for your uses
 
 ## License
