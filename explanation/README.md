@@ -13,7 +13,7 @@ I discovered this project in an article[<sup>1</sup>](https://www.techno-science
 ### Video
 A YouTube video showing what they've managed to do :
 
-[![Video demonstration of the Soil-Powered Computing project](https://i9.ytimg.com/vi_webp/oGy76j1ScXM/mq2.webp?sqp=CJC7uK4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWyhUMA8=&rs=AOn4CLCNJ9xKwFJaNySnoP_O9npOMO9mCQ)](https://www.youtube.com/watch?v=oGy76j1ScXM)
+[![Video demonstration of the Soil-Powered Computing project](https://github.com/LEMIBANDDEXARI/Practical_SMFC_Design_Guide/blob/main/explanation/th-80655426.jpg)](https://www.youtube.com/watch?v=oGy76j1ScXM)
 
 8975-file-i44.mp4 video found in the supplementary material for the Soil-Powered Computing project available here: [https://dl.acm.org/doi/10.1145/3631410](https://dl.acm.org/doi/10.1145/3631410)
 
